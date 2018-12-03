@@ -1,0 +1,28 @@
+{
+  "name": "base-webpack-server",
+  "version": "0.1.1",
+  "description": "base webpack server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyprepare/growth-baseWebpackServer.git"
+  },
+  "author": "zhouyun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyprepare/growth-baseWebpackServer/issues"
+  },
+  "homepage": "https://github.com/zyprepare/growth-baseWebpackServer/blob/master/README.md",
+  "dependencies": {
+    "connect-history-api-fallback": "^1.5.0",
+    "express": "^4.16.4",
+    "http-proxy-middleware": "^0.19.1",
+    "opn": "^5.4.0",
+    "webpack": "^4.26.1",
+    "webpack-dev-middleware": "^3.4.0",
+    "webpack-hot-middleware": "^2.24.3"
+  }
+}
