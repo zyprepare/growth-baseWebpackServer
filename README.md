@@ -32,9 +32,3 @@ baseWebpackServer(webpackConfig, {
   }
 })
 ```
-
-## 版本说明：
->0.1.1：<br>
--&nbsp;proxyMiddleware的配置项可以从外面动态传入。<br>
->0.1.0：<br>
--&nbsp;初始版本。<br>
